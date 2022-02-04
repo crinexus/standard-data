@@ -1,52 +1,52 @@
-State,Abbr,Population
-Alabama,AL,4903185
-Alaska,AK,731545
-Arizona,AZ,7278717
-Arkansas,AR,3017804
-California,CA,39512223
-Colorado,CO,5758736
-Connecticut,CT,3565287
-Delaware,DE,973764
-District of Columbia,DC,705749
-Florida,FL,21477737
-Georgia,GA,10617423
-Hawaii,HI,1415872
-Idaho,ID,1787065
-Illinois,IL,12671821
-Indiana,IN,6732219
-Iowa,IA,3155070
-Kansas,KS,2913314
-Kentucky,KY,4467673
-Louisiana,LA,4648794
-Maine,ME,1344212
-Maryland,MD,6045680
-Massachusetts,MA,6892503
-Michigan,MI,9986857
-Minnesota,MN,5639632
-Mississippi,MS,2976149
-Missouri,MO,6137428
-Montana,MT,1068778
-Nebraska,NE,1934408
-Nevada,NV,3080156
-New Hampshire,NH,1359711
-New Jersey,NJ,8882190
-New Mexico,NM,2096829
-New York,NY,19453561
-North Carolina,NC,10488084
-North Dakota,ND,762062
-Ohio,OH,11689100
-Oklahoma,OK,3956971
-Oregon,OR,4217737
-Pennsylvania,PA,12801989
-Rhode Island,RI,1059361
-South Carolina,SC,5148714
-South Dakota,SD,884659
-Tennessee,TN,6829174
-Texas,TX,28995881
-Utah,UT,3205958
-Vermont,VT,623989
-Virginia,VA,8535519
-Washington,WA,7614893
-West Virginia,WV,1792147
-Wisconsin,WI,5822434
-Wyoming,WY,578759
+State,Abbr,Population,fips
+Alabama,AL,4903185,1
+Alaska,AK,731545,2
+Arizona,AZ,7278717,4
+Arkansas,AR,3017804,5
+California,CA,39512223,6
+Colorado,CO,5758736,8
+Connecticut,CT,3565287,9
+Delaware,DE,973764,10
+District of Columbia,DC,705749,11
+Florida,FL,21477737,12
+Georgia,GA,10617423,13
+Hawaii,HI,1415872,15
+Idaho,ID,1787065,16
+Illinois,IL,12671821,17
+Indiana,IN,6732219,18
+Iowa,IA,3155070,19
+Kansas,KS,2913314,20
+Kentucky,KY,4467673,21
+Louisiana,LA,4648794,22
+Maine,ME,1344212,23
+Maryland,MD,6045680,24
+Massachusetts,MA,6892503,25
+Michigan,MI,9986857,26
+Minnesota,MN,5639632,27
+Mississippi,MS,2976149,28
+Missouri,MO,6137428,29
+Montana,MT,1068778,30
+Nebraska,NE,1934408,31
+Nevada,NV,3080156,32
+New Hampshire,NH,1359711,33
+New Jersey,NJ,8882190,34
+New Mexico,NM,2096829,35
+New York,NY,19453561,36
+North Carolina,NC,10488084,37
+North Dakota,ND,762062,38
+Ohio,OH,11689100,39
+Oklahoma,OK,3956971,40
+Oregon,OR,4217737,41
+Pennsylvania,PA,12801989,42
+Rhode Island,RI,1059361,44
+South Carolina,SC,5148714,45
+South Dakota,SD,884659,46
+Tennessee,TN,6829174,47
+Texas,TX,28995881,48
+Utah,UT,3205958,49
+Vermont,VT,623989,50
+Virginia,VA,8535519,51
+Washington,WA,7614893,53
+West Virginia,WV,1792147,54
+Wisconsin,WI,5822434,55
+Wyoming,WY,578759,56
